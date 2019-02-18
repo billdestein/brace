@@ -1,7 +1,7 @@
-var ace = require('brace');
-require('brace/mode/coffee');
-require('brace/theme/vibrant_ink');
-require('brace/keybinding/vim');
+var ace = require('toolbox-brace');
+require('toolbox-brace/mode/coffee');
+require('toolbox-brace/theme/vibrant_ink');
+require('toolbox-brace/keybinding/vim');
 
 var editor = ace.edit('coffee-editor');
 editor.setTheme('ace/theme/vibrant_ink');

@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thlorenz/brace.git"
+    "url": "git://github.com/billdestein/toolbox-brace.git"
   },
-  "homepage": "https://github.com/thlorenz/brace",
+  "homepage": "https://github.com/billdestein/toolbox-brace",
   "dependencies": {},
   "devDependencies": {
     "browserify": "~4.2.0",
