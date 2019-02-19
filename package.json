@@ -1,6 +1,6 @@
 {
   "name": "toolbox-brace",
-  "version": "0.11.2",
+  "version": "0.11.3",
   "description": "browserify compatible version of the ace editor.",
   "main": "index.js",
   "typings": "index.d.ts",
